@@ -1,5 +1,4 @@
-# Quiz_Project
-
+Quiz_Project
 Quiz project for peer support
 
 Functional requiremnets
